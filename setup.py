@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="engine-python",
-    version="1.1.0",
+    version="1.4.0",
     description="An intelligent, asynchronous search engine library for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
