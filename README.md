@@ -43,7 +43,7 @@ to build custom search tools, crawlers, or data indexing systems.
 
 ## 🔎 Custom Search  
 - Website: `https://cse.google.com/cse?cx=CSE_ID`  
-- Official docs: [Google Custom Search API](https://developers.google.com/custom-search/v1/reference/rest/v1/cse/list?apix=true)  
+- Docs: [Google Custom Search API](https://developers.google.com/custom-search/v1/reference/rest/v1/cse/list?apix=true)  
 
 ---
 
