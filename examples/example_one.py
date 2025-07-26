@@ -1,14 +1,10 @@
 
 import asyncio
 from engine import GoogleEngine
-from engine.exceptions import (
-    InvalidAPIKeyError,
-    APILimitExceededError,
-    NetworkError,
-)
 
-API_KEY = "AIzaSyB457AfQGH5Gu9dVu5UYcelJ-1ZrlNC29Y"
-CSE_ID = "306df78b399234816"
+
+API_KEY = "ABCDEFGHIJKLMNOPQ"
+CSE_ID = "123ab456c789de012"
 
 
 async def main():
