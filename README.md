@@ -35,7 +35,7 @@ to build custom search tools, crawlers, or data indexing systems.
 
 ---
 
-## 🔐 Getting API Key & CSE ID  
+## 🔐 Get API Key & CSE ID  
 - Get your [API Key](https://developers.google.com/custom-search/v1/introduction)  
 - Get your [CSE ID](https://programmablesearchengine.google.com/controlpanel/create)  
 
